@@ -1,5 +1,7 @@
 # Stock Price Prediction Dashboard
 
+[**Live Demo**](https://stockprice-predictor.streamlit.app/)
+
 ## 1. Overview
 
 The **Stock Price Prediction Dashboard** is an advanced web application designed to forecast stock prices using machine learning techniques. It offers users an interactive interface to analyze stock trends and make predictions based on historical data. Built with Python and Streamlit, the application ensures an engaging user experience.
